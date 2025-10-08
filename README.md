@@ -1,1 +1,0 @@
-# Sinenko-cpp-homeworks
